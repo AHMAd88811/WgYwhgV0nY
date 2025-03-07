@@ -861,7 +861,6 @@ git push origin feature-branch
 
 1. 直接在`pull request`中查看代码
 1. `pull`代码到他自己的本地仓库，再手动合并
-
 第一种做法更简单，维护者可以在`GUI`中查看变更的差异，做评注和执行合并。
 但如果出现了合并冲突，需要第二种做法来解决。这种情况下，维护者需要从开发者的服务端仓库中[`fetch`](https://www.atlassian.com/git/tutorial/remote-repositories#!fetch)功能分支，
 合并到他本地的`master`分支，解决冲突：
