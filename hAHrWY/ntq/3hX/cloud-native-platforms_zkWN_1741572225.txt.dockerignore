@@ -4,7 +4,6 @@
 
 # Files for vim
 .*.sw?
-
 # Files for vscode
 .vscode/*
 .vendor/*
