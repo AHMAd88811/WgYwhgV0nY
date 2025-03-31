@@ -59,7 +59,6 @@
   - [Speed Up Pandas apply function using Dask or Swifter (tutorial)](https://gdcoder.com/speed-up-pandas-apply-function-using-dask-or-swifter-tutorial/)
   - [Swifter using only single core issue](https://github.com/jmcarpenter2/swifter/issues/45) (`allow_dask_on_strings(enable=True`))
   - Notes for Swifter:
-     - set_npartitions and also make sure to mind your data type.  For instance, if you are using text you need to set it explicitly (Notice that you need to explicitly set that the data is text, otherwise it’s really slow)
      - Swifter runs dask
      - look into the extra options
   - [sk-dist: Distributed scikit-learn meta-estimators in PySpark](https://github.com/Ibotta/sk-dist) (optimise model training)
