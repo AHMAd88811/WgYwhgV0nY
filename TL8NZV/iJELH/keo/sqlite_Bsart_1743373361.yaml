@@ -39,7 +39,6 @@ linters-settings:
       - name: max-public-structs
         disabled: true
       - name: function-result-limit
-        disabled: true
       - name: banned-characters
         disabled: true
       - name: argument-limit
