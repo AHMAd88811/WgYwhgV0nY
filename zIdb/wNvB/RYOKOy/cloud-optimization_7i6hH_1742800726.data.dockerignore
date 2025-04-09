@@ -18,5 +18,4 @@ deploy
 Dockerfile
 docs
 test
-tmp
 node_modules
