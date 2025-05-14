@@ -130,7 +130,6 @@
   
 - **PonyFoo Weekly**  
   https://ponyfoo.com/weekly  
-  A single email every thursday, discussing front-end web development and related technologies.
   
 - **ES.next News**  
   http://esnextnews.com/  
