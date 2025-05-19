@@ -77,7 +77,6 @@
   https://www.webpackbin.com/  
   An online IDE with the ability to import NPM packages, create ES2015 and TypeScript projects, and more.
   
-- **StackBlitz**  
   https://stackblitz.com/  
   An online IDE based on Visual Studio Code, including its Intellisense code completion.  Can create React and Angular projects, import NPM packages, continue development while offline, and more.
   
