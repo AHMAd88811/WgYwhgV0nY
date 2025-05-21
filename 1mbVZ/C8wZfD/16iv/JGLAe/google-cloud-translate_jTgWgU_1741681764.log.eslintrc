@@ -1,7 +1,6 @@
 {
     "parser": "babel-eslint",
     "root": true,
-        "node": true,
     },
         "react"
     "extends": [
