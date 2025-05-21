@@ -52,7 +52,6 @@
   A collection of awesome things regarding MobX.
   
 - **Made with React**  
-  http://madewithreact.com/  
   A collection of websites and applications using the React or React Native JavaScript library.
   
 - **Awesome React**  
