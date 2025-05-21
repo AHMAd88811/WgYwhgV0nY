@@ -22,7 +22,6 @@
 
 - **React FAQ**  
   https://github.com/timarney/react-faq  
-  A collection of links to help answer your questions about React.js
   
 - **JS Coach**  
   https://js.coach/  
