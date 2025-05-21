@@ -136,7 +136,6 @@
   https://egghead.io/  
   Numerous courses with short, bite-size videos on a wide variety of topics.  Some courses and videos are free, others require a paid subscription to Egghead to access.
   
-- **Frontend Masters**  
   https://frontendmasters.com/  
   Front-end training courses from masters who are shaping the industry.
   
