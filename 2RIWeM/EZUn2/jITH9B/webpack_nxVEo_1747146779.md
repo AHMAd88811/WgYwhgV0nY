@@ -122,7 +122,6 @@
   
 - **JavaScript Weekly**  
   http://javascriptweekly.com/  
-  A free, once-weekly e-mail round-up of JavaScript news and articles.
   
 - **PonyFoo Weekly**  
   https://ponyfoo.com/weekly  
