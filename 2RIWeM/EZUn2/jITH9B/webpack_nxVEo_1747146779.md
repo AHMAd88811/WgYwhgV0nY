@@ -63,7 +63,6 @@
 - **CodeSandbox**  
   https://codesandbox.io/  
   An online IDE focused on React applications.  Includes the ability to import NPM packages, browse existing sandboxes by tags, export projects for use with Create-React-App, and much more.
-  
 - **WebpackBin**
   https://www.webpackbin.com/  
   An online IDE with the ability to import NPM packages, create ES2015 and TypeScript projects, and more.
