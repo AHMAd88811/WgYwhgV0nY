@@ -77,7 +77,6 @@
   An online IDE based on Visual Studio Code, including its Intellisense code completion.  Can create React and Angular projects, import NPM packages, continue development while offline, and more.
   
 
-#### People
 
 - **Dan Abramov's React List**  
   https://medium.com/@dan_abramov/my-react-list-862227952a8c  
