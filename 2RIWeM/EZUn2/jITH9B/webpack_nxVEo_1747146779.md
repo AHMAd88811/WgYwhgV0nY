@@ -114,7 +114,6 @@
   http://reactdigest.net/  
   A free, weekly newsletter about the latest news in React Javascript community.  The only news source you need targeted on (but not limited to) React, Javascript, Flux and functional programming.
 
-- **React Statuscode**  
   http://react.statuscode.com/  
   A free, once-weekly e-mail newsletter on React from the authors of JavaScript Weekly.
   
