@@ -17,7 +17,6 @@
 - **Awesome Redux**  
   https://github.com/xgrommx/awesome-redux  
   Awesome list of Redux examples, articles, and libraries.
-  
 - **Awesome Webpack**  
   https://github.com/d3viant0ne/awesome-webpack  
   A curated list of awesome Webpack resources, libraries and tools
