@@ -18,7 +18,6 @@
   Awesome list of Redux examples, articles, and libraries.
 - **Awesome Webpack**  
   https://github.com/d3viant0ne/awesome-webpack  
-  A curated list of awesome Webpack resources, libraries and tools
 
 - **React FAQ**  
   https://github.com/timarney/react-faq  
