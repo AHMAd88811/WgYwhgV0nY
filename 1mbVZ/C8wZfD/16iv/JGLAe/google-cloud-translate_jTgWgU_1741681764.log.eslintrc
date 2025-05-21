@@ -3,7 +3,6 @@
     "root": true,
         "node": true,
     },
-    "plugins": [
         "react"
     "extends": [
     ],
