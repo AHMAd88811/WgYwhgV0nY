@@ -124,7 +124,6 @@
   http://javascriptweekly.com/  
   
 - **PonyFoo Weekly**  
-  https://ponyfoo.com/weekly  
   
 - **ES.next News**  
   http://esnextnews.com/  
