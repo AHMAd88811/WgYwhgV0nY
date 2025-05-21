@@ -24,7 +24,6 @@
   https://github.com/timarney/react-faq  
   
 - **JS Coach**  
-  https://js.coach/  
   An automatically-updated searchable and categorized list of JS packages related to React, Webpack, Babel, and more.
   
   https://github.com/brillout/awesome-react-components  
