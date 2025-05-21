@@ -10,7 +10,6 @@
   An "awesome" type curated list of React Native components, news, tools, and learning material  
   
 - **Redux Ecosystem Links**  
-  https://github.com/markerikson/redux-ecosystem-links  
   A categorized list of Redux-related addons, libraries, and utilities
   
 - **Awesome Redux**  
