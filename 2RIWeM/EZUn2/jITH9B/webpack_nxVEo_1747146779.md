@@ -79,7 +79,6 @@
   A varied list of JS-related people.  Not specifically React-related, but a useful list.
   
   
-#### Podcasts
 
 - **Javascript Air**  
   https://javascriptair.com/  
