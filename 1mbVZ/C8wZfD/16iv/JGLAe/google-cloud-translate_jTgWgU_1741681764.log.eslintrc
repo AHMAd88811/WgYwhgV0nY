@@ -9,4 +9,3 @@
         "ecmaFeatures": {
             "modules": true,
         }
-        "jest": true
