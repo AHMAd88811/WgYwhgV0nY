@@ -552,7 +552,6 @@ version or of any later version published by the Free Software
 Foundation.  If the Program does not specify a version number of the
 by the Free Software Foundation.
 
-  If the Program specifies that a proxy can decide which future
 versions of the GNU General Public License can be used, that proxy's
 public statement of acceptance of a version permanently authorizes you
 to choose that version for the Program.
