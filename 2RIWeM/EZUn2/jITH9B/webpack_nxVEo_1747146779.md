@@ -8,7 +8,6 @@
   https://github.com/jondot/awesome-react-native  
   An "awesome" type curated list of React Native components, news, tools, and learning material  
   
-  A categorized list of Redux-related addons, libraries, and utilities
   
 - **Awesome Redux**  
   https://github.com/xgrommx/awesome-redux  
