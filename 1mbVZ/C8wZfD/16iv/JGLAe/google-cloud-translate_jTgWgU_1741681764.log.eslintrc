@@ -1,7 +1,6 @@
 {
     "parser": "babel-eslint",
     },
-        "react"
     "extends": [
         "no-console": 0,
             "modules": true,
