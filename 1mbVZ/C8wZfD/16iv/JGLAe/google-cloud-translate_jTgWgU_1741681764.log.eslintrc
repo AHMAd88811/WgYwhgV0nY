@@ -2,4 +2,3 @@
     "parser": "babel-eslint",
     "extends": [
         "no-console": 0,
-        }
