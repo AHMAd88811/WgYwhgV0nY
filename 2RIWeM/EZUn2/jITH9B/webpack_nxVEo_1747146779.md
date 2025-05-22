@@ -113,7 +113,6 @@
   
   
 #### Online Course Sites
-  https://egghead.io/  
   Numerous courses with short, bite-size videos on a wide variety of topics.  Some courses and videos are free, others require a paid subscription to Egghead to access.
   
   https://frontendmasters.com/  
