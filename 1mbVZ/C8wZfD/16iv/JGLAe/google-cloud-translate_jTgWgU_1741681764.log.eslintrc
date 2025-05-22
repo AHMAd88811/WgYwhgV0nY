@@ -5,7 +5,6 @@
     "extends": [
     "rules": {
         "no-console": 0,
-        "sourceType": "module",
         "ecmaFeatures": {
             "modules": true,
         }
