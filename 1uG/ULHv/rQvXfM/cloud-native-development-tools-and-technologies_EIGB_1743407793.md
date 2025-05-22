@@ -200,7 +200,6 @@ recipients a copy of this License along with the Program.
 
   5. Conveying Modified Source Versions.
 
-  You may convey a work based on the Program, or the modifications to
 produce it from the Program, in the form of source code under the
 terms of section 4, provided that you also meet all of these conditions:
     a) The work must carry prominent notices stating that you modified
