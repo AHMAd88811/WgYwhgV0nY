@@ -9,7 +9,6 @@
   An "awesome" type curated list of React Native components, news, tools, and learning material  
   
   
-- **Awesome Redux**  
   https://github.com/xgrommx/awesome-redux  
   Awesome list of Redux examples, articles, and libraries.
 - **Awesome Webpack**  
