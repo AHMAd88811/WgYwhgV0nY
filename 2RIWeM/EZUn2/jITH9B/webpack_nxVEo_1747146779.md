@@ -83,7 +83,6 @@
   
 - **React30**  
   https://react30.com/  
-  The weekly React podcast that promises to waste no more than 30 minutes of your time.
 
 
 #### Newsletters
