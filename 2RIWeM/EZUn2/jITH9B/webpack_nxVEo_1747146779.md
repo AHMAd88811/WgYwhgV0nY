@@ -89,7 +89,6 @@
 - **React.js Newsletter**  
   http://reactjsnewsletter.com/  
   The free, weekly newsletter of the best React.js news, articles, projects, and more - brought to you by React.js Program
-  
 - **React Digest**  
   http://reactdigest.net/  
   A free, weekly newsletter about the latest news in React Javascript community.  The only news source you need targeted on (but not limited to) React, Javascript, Flux and functional programming.
