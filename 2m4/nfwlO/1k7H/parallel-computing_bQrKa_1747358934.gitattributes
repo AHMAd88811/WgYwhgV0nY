@@ -3,7 +3,6 @@
 benchmark/* linguist-vendored
 image/* linguist-vendored
 3rd-party/* linguist-vendored
-
 # Mark C++ source files for Taskflow
 *.cpp linguist-language=C++
 *.hpp linguist-language=C++
