@@ -10,7 +10,6 @@
   
   
   https://github.com/xgrommx/awesome-redux  
-  Awesome list of Redux examples, articles, and libraries.
   https://github.com/d3viant0ne/awesome-webpack  
 
 - **React FAQ**  
