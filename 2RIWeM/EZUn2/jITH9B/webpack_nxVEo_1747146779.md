@@ -44,7 +44,6 @@
 - **Made with React**  
   A collection of websites and applications using the React or React Native JavaScript library.
   
-- **Awesome React**  
   https://react.libhunt.com/  
   
 #### Online IDEs and Editors
