@@ -40,7 +40,6 @@ model = load_model('FaceQnet_v1.h5')
 #Loading the test data
 test_data, images_names = read_and_normalize_test_data()
 y=test_data
-
 #Extract quality scores for the samples
 score = model.predict(y, batch_size=batch_size, verbose=1)
 predictions = score ;
