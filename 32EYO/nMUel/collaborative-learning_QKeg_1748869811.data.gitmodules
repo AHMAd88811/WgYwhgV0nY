@@ -1,5 +1,4 @@
 [submodule "mods/manage_multi"]
-	path = mods/manage_multi
 	url = git@github.com:atutor/manage_multi.git
 [submodule "google_app"]
 	path = google_app
